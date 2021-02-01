@@ -16,6 +16,7 @@
 
 TWfFoVLKTA1LDkGDRW7yCQv8uhPKHrzHk1
 
+捐赠完可以截图交易，在token库里面提交issue,并且提供自己联系方式，我核实后会联系您，可以考虑提供技术援助
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paipaipaipai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
