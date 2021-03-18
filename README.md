@@ -1,6 +1,7 @@
 ### Hi there 👋
-本人不提供联系方式，有问题提交issue
+#### Contact Me
 
+[Telegram](https://t.me/pai_tokencore) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paipaipaipai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
