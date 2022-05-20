@@ -16,7 +16,7 @@ jobs:
           # Options
           template: classic
           user: galaxyzxcv
-          base: header, activity, community, repositories, metadata
+          base: ""
           repositories_forks: no
 
           config_gemoji: yes
@@ -24,6 +24,11 @@ jobs:
           config_timezone: Asia/Shanghai
 
           # Plugins
+          plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer,scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          
           plugin_languages: yes
           plugin_languages_ignored: html, css, markdown # List of languages to ignore
           plugin_languages_details: bytes-size, percentage # Additionally display total bytes size and percentage
