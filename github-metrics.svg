@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1566" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="650" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none;position:relative}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.fill-width{width:100%}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none;position:relative}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}span.code{margin:0 4px -3px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 14.1kb of code in 33 edited files across 55 commits over last 14 days</small>
+                <small>estimation from 14.1kb of code in 33 edited files across 56 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.97193295646136" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="240.97193295646136" y="0" width="219.0280670435386" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.77625570776254" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="240.77625570776254" y="0" width="219.22374429223743" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.28 kB</div>
-                                <div>52.39%</div>
+                                <div>5.27 kB</div>
+                                <div>52.34%</div>
                             </small>
                         </div>
                     </section>
@@ -50,252 +50,8 @@
                             </div>
                             <small>
                                 <div>4.80 kB</div>
-                                <div>47.61%</div>
+                                <div>47.66%</div>
                             </small>
-                        </div>
-                    </section>
-                </div>
-            </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zm9.22 3.72a.75.75 0 000 1.06L10.69 8 9.22 9.47a.75.75 0 101.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0zM6.78 6.53a.75.75 0 00-1.06-1.06l-2 2a.75.75 0 000 1.06l2 2a.75.75 0 101.06-1.06L5.31 8l1.47-1.47z"/>
-                    </svg>
-                    1 Gist
-                </h2>
-                <div class="row">
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0114.25 15h-9a.75.75 0 010-1.5h9a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 0110 4.25V1.5H5.75a.25.25 0 00-.25.25v2.5a.75.75 0 01-1.5 0v-2.5zm7.5-.188V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM5.72 6.72a.75.75 0 000 1.06l1.47 1.47-1.47 1.47a.75.75 0 101.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0zM3.28 7.78a.75.75 0 00-1.06-1.06l-2 2a.75.75 0 000 1.06l2 2a.75.75 0 001.06-1.06L1.81 9.25l1.47-1.47z"/>
-                            </svg>
-                            1 File
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                            </svg>
-                            0 Comments
-                        </div>
-                    </section>
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                            </svg>
-                            0 Stargazers
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                            </svg>
-                            0 Forks
-                        </div>
-                    </section>
-                </div>
-            </section>
-            <section class="habits">
-                <h2 class="field wrap">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
-                    </svg>
-                    Recent coding habits
-                    <small class="h-details">(computed from last 55 commits)</small>
-                </h2>
-                <div class="row">
-                    <ul class="facts">
-                        <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.3 characters per line of code written</li>
-                        <li>Mostly pushes code around 15:00</li>
-                        <li>Mostly active on Friday</li>
-                    </ul>
-                </div>
-            </section>
-            <section class="habits">
-                <div class="column chart largeable">
-                    <h3>Commit activity per hour of day</h3>
-                    <div class="chart-bars">
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            00
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            01
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            02
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            03
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            04
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            05
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            06
-                        </div>
-                        <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            07
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            08
-                        </div>
-                        <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            09
-                        </div>
-                        <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            10
-                        </div>
-                        <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            11
-                        </div>
-                        <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            12
-                        </div>
-                        <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            13
-                        </div>
-                        <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            14
-                        </div>
-                        <div class="entry">
-                            <span class="value">12</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            15
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            16
-                        </div>
-                        <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            17
-                        </div>
-                        <div class="entry">
-                            <span class="value">12</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            18
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            19
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            20
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            21
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            22
-                        </div>
-                        <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                            23
-                        </div>
-                    </div>
-                </div>
-                <div class="row largeable">
-                    <section class="column chart">
-                        <h3>Commit activity per day of week</h3>
-                        <div class="chart-bars">
-                            <div class="entry">
-                                <span class="value">7</span>
-                                <div class="bar" style="height: 19.444444444444446px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                Sun
-                            </div>
-                            <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                Mon
-                            </div>
-                            <div class="entry">
-                                <span class="value">4</span>
-                                <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                Tue
-                            </div>
-                            <div class="entry">
-                                <span class="value">6</span>
-                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                Wed
-                            </div>
-                            <div class="entry">
-                                <span class="value">11</span>
-                                <div class="bar" style="height: 30.555555555555557px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                Thu
-                            </div>
-                            <div class="entry">
-                                <span class="value">18</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                Fri
-                            </div>
-                            <div class="entry">
-                                <span class="value">8</span>
-                                <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                Sat
-                            </div>
-                        </div>
-                    </section>
-                    <section class="column chart">
-                        <h3>Language activity</h3>
-                        <div class="chart-bars horizontal">
-                            <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 29.8690080011329%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">37%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 27.195355094526658%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">34%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.5494583303830631%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
-                            </div>
                         </div>
                     </section>
                 </div>
@@ -2318,142 +2074,6 @@
                         </g>
                     </g>
                 </svg>
-            </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
-                    </svg>
-                    7 followed
-                </h2>
-                <div class="row">
-                    <section class="people">
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAACx0lEQVR4Ab3BXWiVZQAA4GefL3NbegyXKLYkK6RiZsomZqWy9GaQFDkh+qNIxSCXms0KWSIUkpjhiJDCoEKwuqiQjFZ0YUg0J1oZpDilWg4zW+Y5Tc9PwRdM1rdz1IvzPBWFQkE5RcosUmaRMgsS/PXBE7KHOw2jMVOonLNtoGUs3sJhCRpnNmpubjZUkKCQ/l2+/xdDXIMNeDBXGLmzf6B/ClahAy/itAtkMhlJgtKq0YY1qBHLi1XhaTyKdryOnCIixd2D79GOGuSx7UhuUqtB51GLDnyD2xURJLsVr2CeQZ14BvvPCS6wAqtxA6ZjD95DG3oMESRbh3liR/AUdoktvnnE0Ybd2Tn+cxZnxPowHi3ow5OGCEprxy5MxRY0YYdk72ASWgwjKK0Wr2EJgn/lCxWnDC+riEhpW7AcAT/jka5c/QqXKSgtQhqbFAobd1U1pT8yV13u1z8rXLqgtE+x7McRk48/n1rji6rZo/DcxEzv502n9nSNO39qwCUISnt7e/Wi42vHrI2yFeFhbEBdb/VE71696NDUM4dennW6644r8plpLkJQQs+Iur/XpVbfma0Ir2K6CxQqovEHU/XZH0ZNuX7mH93LZvQfOBfkJyoiGEaeozur7t68PtV6byaqfkBsAJuxBFfhM9x1Pqps/mrsrAX7U7d0LPjty87r0sfmG0aQ4GC4cXtr7eKGfZVTX8JosY+xGlV4VuwTzEYXGtKhZuWHE5pPTE4f21gfCgckCBJsGr30632VZxeiWiyLPtxnUA67sRfj0CCW6qm5dmz3mDF7H/N/QbKTWIqt2Iq5eBwLsUbsAJajDdVi72MVfjKMoLhvMQ/34wV04zaxGZgh9h1WolMJwcXZgZ2YhjRSYifQjjeRcxGCBLVVkbpRwRA5dOMmbMRJrEe/BFeOjCQJErwxf4IievGQyxQps0iZRcrsH4y+zZJwsIR7AAAAAElFTkSuQmCC" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAFkElEQVR4Ab3By29cZxnA4d/3fuecmbEntuNLnEtzc+JLEpJWaWlVoQrKoqzYoLJDiEURrJGQ2CGx4D9A7EFIQDZQLkJs2BAuSmmb5tI2DSExsYmdxEmIZ45nzve+LzMmU5koaYOQeJ7gPfwfZTyByhLXWsvcLFdod+8StaRuRjNkjOajjA3tYnhkPxJzPk7GR1ivNvj9rQu8e+8yYhsMBaOJM+RKMsMtoZookzEsGaMTxxja8wKSD/M4GY/x5toiry+dIfgG9ZBohIRgiBvRlcyUzJRMlcwUSV2q5TOUq+eoz7xCnDzCo2Q8wqmrZ/ndykW25c6QOCEYESOizE0eYywfJndHWyuUK2fJzImAACG10Q9+TmivIvs+zcMyHvKjD97hF9fPM1YDEwcUCYZgNLOCp/d8CkHo07TBtRtvE7UiEhAJBARCwJf/ACLw1EtsJWxx+h/X+cF775CSkZJhySAZISmZKgdHZxGEgZjVGRk9TKYV0RNiimAITsBh+TTcvcxWwgPr3S7fPfMnqmSkZKRKsaSQlKhGloyZiQUe1px+msyUaInoirgSXBEMMLj6a0gdBoQHfnzpEqutElVHK0eTYZVCpUhlTNbH2T48xSZTBuqTs+TFEIIiKMGVgAIGGFT3YfUNBoQeA05duoI5mIGp45VBZYTKiMk4PHmEgfW1y2zcX+bfhNrOk4gamBJQwAAFDDC4/RcGhJ4Lt9ZYbpVgATdwdUgQKicmp6bCwR0LDLRW36VcucBAvvs5Ak7AwA1xBQxcIRh070JriT6h582btwmBnkCwQEggCWKCPAX2b99PvWiwyZRy9X2qG+cZkOFp4ug+hD4FDFwBAzfAYH2RPqFn8f46AUE8IAbRAlEhVygSzO5eYKB162+Esg3rN0n/XGYg7nqWgBPcwRVQQAEDDDq36BN67nW7SAABokM0yBWKFNgmdfbuOMDA+tIFJDmSnGr5LAMy/QweBDDAwBVcwRN4gmqdPqEnj0IEMgKZQZ6gSFBUzvyeWWKM9JkmWovvEStD1NGlt/hQPkycOgY4uAMGKLiCKwQ2ZfTsbNTJA+Tu5AqFGUUwCnHmD8wzEAjs/exrBCAEJ9BngLBp5/Nw8y1wBwfcITh4gKxJX0bP4dERciBXKJJRmFO4sXNyjKmJKQZCjOTbJnisiXkoRiDdBRw8gBlIgMYO+oSe53ZMUXOomVFLTq2rFF3l6Mwc/x1Bpp8FMzADN8DAFUZm6cvomR4e4pnxca4sLlNLSq2r1N1YmJtj4N5fL3H9Zz+kESvqeUVRKHnNyAqj8co3kfH9bJr+JLb4G4TAJnfYNgO1cfqEB76wMEs9GfWuUe8oh3bvobmtycDauXN4u8LaFdpKaJmwskI7iXT1DT7U3I0094IZuIIr7HqZAeGBFw/u4/jUJPWuUu8ox48tMGApceftC3hbsbZhpWFtQ0vHSqe6cob/MP0CmIEqNA/BxEkGMrZ47ZWX+N6Vn1J02txfWuXiym0KN+zuHdKdNjEYKkbKDElOMCfghLXbdM78hDg8TMgg6DqYIkUT5r7CVhlbTI6N8OUvfo7Xv3+K8786zYhWNC0xhFLDUJwkjuQg6gQHCSABumd/S2xAbDhSc6RWwNGvQ2OKrYSHHDy0l1e/9irNvI6URijBS8fajrYhtaFqQ1UGqhJSCWkDdAO061jXQZrEk9+A7Ud4mPAIe2b38flvf5XdR+egdLwd0BJSCVU70G0Huu1AtSF0y0DaCGgnYB0IO06Qf+Y7MD7Po2Q8xtD4CC9+60usnbvC0i//yJ0/X6TqbKASUBWcQBAjCEg90jj4CYaef5n8qXk+SsbHGD8+w/jxGbTT5f77f6d17QbaahGjU9s+RGPfThoH9iNFwZPIeEKxVjB24hBjJw7xv/gX1IrRHnzk/4MAAAAASUVORK5CYII=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAIDUlEQVR4AW3B62+cWX3A8e/vPOe5zNUzvsXJOrHX2bDstequCt0WtSBQ2ZYXlZB4UV7xp/Df8JIXIJBKq4rS0nYlNuyS68ZONk7s2GN7PDPPXJ7LOefXTBESrPr5yAff+YH6+Tl/841v8E//+CG9ThtjhDiOERGMMSyJCF+kqiypKqqKqqKqhBAIQQkh4JzHe4/zDlc7bHv1Ci5Wet0+xhisjYjjGGMMIsKSiCCAAqrKH4gIf6CqqCqqijGGEAIhGIwxeB8R+YjIRNh+v8fCFHTaLbxzJEmMtRbh90T4AmFJlf+jvKSgIqgqqoqqImIQCYgIIoIxBmMMtttuEWmXyFrm8zneO2IbISKoKiEoqoqqsqSqOO8pyxIxETayGGMwxhAZgzEGVUVVEYlABERAAku2Lidsrq6QpSkPDp5ydPyc9959iyyNKRZznKtBQTVgXMno9Jhnjx9xfnFJXno2d16j0VujDLCxvs7G2hrddptup4MxhsgIRgxBIAjYUJxSRX1E4MXZiN8ePabdtrQ6baqyYjK+pNdus2oCp48/42Jwwp37j9g/GTEtahrN3/Lq7g7bb7/PJwcvqEOg1cr489dvcmWtTyvLSJOEbrtNElvs0bOH4BLefuvP6HRXuBy2eXTwiKyRUVcVviy4cWuPJw9/x/2HB9x9/Jyj0ZyidgjCaFEwm885eHrIe3/3XSbBMFrU/OS/P6X2ntgIman5/offZG/7OtFqd+2Hqsqrt96ku7JKq90mNiUu1CzdfOUa6WLMpx9/DBo4G80oak/pPIJQe4/znuEkR0LN+vWbiBGsichiSxQZhuMxJ2dnjKZTrAbwLnB4dMqsVAwLNjpKhODVk4rSareJbUS/vco7pacTjyg89FdWWOn2qLznV5/e4fxswJ4R0tiiqoQgBBWyJOHx8YDjyynWe4dRRcXgvCORGu8criqxacKirBhOcnZef4Ovfed73Pv3f2Xn4BlR1sAkCVGSEaVN0mab/3jwGSEEEMEYQRHSKCaNLT7LSJIEG0IgMpZ+bwVrLVoHQgg47xBnmJcl773zHlVVYxstNnb3GI9L6roGMYCgCLs7u+yfDcmSmKAQiaCiGBHiyNDMUoIqlpfiNKHXaTEvHZezGepKjAakKNlot8habdpba7iq4sXTp5wcH9PrroAYRqMJ3Q3L5vZ1/gLDwgq1UzAgRnCuRtXRyjKKosCiirUx7WaDOiw4PD7jxdOHGIHt7S2+tbuD2JSA4f6v/pmf/fTnjMYT3ri6SeEDvz54ypVej29++A9c29zguRNq57BGMRKYLcY0rNBII9pxhuUlYwxJHBFHEa521EWJhsDgbMLd/UNufvldbNqiu3GNN2+9zuHzI6688RblYsHerOLK1au0mw385JKhi8nSjOAqfHAISqeZYSOh02xjeWk6GXH/zu8onZIPz0AVYyLKsmLYWMGurxOlDa7s7vHaZc61V67zpQ8+4O5Ht/las0PW6bKyvsUn+0/Y//yAvRuv0EwMo3yKA7I0RjSQpTGWl1yx4ODOb3AKs+GQ4B0mivFVSa/VROsaLefk5+cMHjwgzycU0xEXwzGTs1N2330f9R5jYwiBxWxCv9ElNkpde1YaCaiiGrAiggg0E0EkYqAKPiAG1AV+9OOf02i2+fu//QpHB484Of6cKkrJDwsajQZJI8GXM7yrOBkOsdaSJQk2stgoQpyn3WoyuhwxyqdYXtKgDEc5SERwHvUem0aogpGIs4tLRITelU3Sbo+r269y8XgfiRNcZWmubVAEKJzQzRrEJiJ4EDWIClXleHF6RlnVWGMTVAyXeYlEETbOWGo02uTjc/JxQT4eI+qxseWr3/42nf4a95OMOnjWwxYq8PjZcy4HA3q9DsYrg9MRcWxJNeLw81OCj9na2sRuf/kvydImZTEnSy3r/S6LRQGRZXhxwc2dG/Q6Gb5cMLk4pdXtc3pwn/07v6G7sUVrtcdiMuaXv/4fitpTLlaIfJ8nzw5ptdtsrK9xd/8ZV3du0NM+Nr8ckEuEiSwmWqHTanF9a4N5UbO9foVmlvDg7n9Sfut9bJzwX//2Cz659xlPTkek8R3eublLb+MaTw+f8fb7X6eRxTQ6HTauNsiyhFanSatbQLA8fXKMNepAPYvZkOnFIaPBc1pJwltvvs2icJSpsL+/z4vnz8knU/obV6ndZ9zY6HPj6hb9/hrPzs6pyhkP7tzm9dducbKYMS1qpnHCi5Mh0+EYN53jvMc2GxlRnNDvr5LFlif798jLilk+4q//6usMBsdc5jm/+Jdf8urOdeb5gpV2i0aS0Gq2KBYLnhwdsVSVcx7t32drc5N8NsN7h/eO+WyCjSzGCLYRKa/t3eJ0cMK9ex9TzOckWZfJ5JLbtz+iv7qOKtx7dABBIThsFCPGMl+UnI9HnI5yloKvWMw9+/v3iGxMHKeIGCDgfInRCBtHGZ/c/ojB2TG1KwHB1VPStMnp4Ig8H+GCcjKa0Do+YavfAxPhFS4mOcfDMaN5yVLwBcYkgOJdiXcliLCyssbe7jbr66tEvV7/h8PhKT44lpqNNlW1YK3XoyymzBY5S7OyYlZWiAh1gGlV8/ngnMeDC4IqSyIgRIDnj5XFnJOTU1ppEzuf59SuZElESJMMUIqyZFYUpEmMEUNRlVxOZ1xOZ3xRFFlWe33y6ZSyqgABlD+l3H/4ABvUs6QKxhjqukIkIp/lGCPUzqGq/H9UFREhTVOGoyHOOZZEDH9MVVmqveN/ASVIP9McfNSyAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIABwAHAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP48djen6j/Gg9D2v978P+AegWfw1+IMPg23+Ld98MfH9z8H7XWP7F1j4hWnhzWNN8Df2p0/sX/hOP8AhG/+EX/4SL/PrQHtf734f8A7f9qLwr4A8H/H34oaH8M/7St/hv8A8JGda8B6Vq3/ACE/CfhfXf8AifaF4L1z/ipPF3/FReE/7c/4Rf8A5HD/AJgH5gHg1AH1h+xz4V+EniT9oz4TwftC6VrepfA//hMNL/4Ty1tNH8ZalpmvaV/0Bdc1z4f/APFT+H/Dviz/AKGnwmP+KL/Cg4eeXf8ABf5H9FP/AAUm/bM+Dtn+wz8SP2ZbH4Sabptx4X/4QP4Y/wDCJ/Cf4weDNS1P4SaXofjTQNe/4nngfxBn4nfD/wAO/wDCOaH/AMIt/wAJT4s+D/XX/DH/AEN9Ac8u/wCC/wAj+db9szwtpXw3/aC+MHhX/hDrnw3qGqeJPC/ifR/D93/xLdT+EvhfXfBf9vf8KX1z/ipPFv8AwkHiLwn4c1zwP/wm/wDxWH/I6aB4ooO4+T6AND7ZffZfsP264/s//n0+2H+zP8On+cUHOf0w/Gyf9uD4ff8ABHTxx8Ofj9qvj/8AsfQdZ+Det/2tq1n8G/EmmWHhf/hNPAOveBfBeueOP+Ku+J3iD/hE/wDiR/8ACEf8Vh/zH/DHgb/hB+1AH823jbx54x+Kni3WPH/j/wAR6l4t8YeKLz7ZrHiLVrz+0tTv+f8APT/9YdBy9AFig5zota+I3xD1LRdX0fVPH3jnVNB1waYde8Pah4x8TXWia7/wjuf7K/tXT5NVMNyIP+Ef0vONm7yD03cAHHRW8VvbhYgVBx79zQdBPQB//9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                    </section>
-                </div>
-            </section>
-            <section>
-                <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M0 8a8 8 0 1116 0v5.25a.75.75 0 01-1.5 0V8a6.5 6.5 0 10-13 0v5.25a.75.75 0 01-1.5 0V8zm5.5 4.25a.75.75 0 01.75-.75h3.5a.75.75 0 010 1.5h-3.5a.75.75 0 01-.75-.75zM3 6.75C3 5.784 3.784 5 4.75 5h6.5c.966 0 1.75.784 1.75 1.75v1.5A1.75 1.75 0 0111.25 10h-6.5A1.75 1.75 0 013 8.25v-1.5zm1.47-.53a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.06l-1.5 1.5a.75.75 0 01-1.06 0L8 7.81l-.97.97a.75.75 0 01-1.06 0l-1.5-1.5a.75.75 0 010-1.06z"/>
-                    </svg>
-                    Recent activity
-                </h2>
-                <div class="row">
-                    <section>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">galaxyzxcv/galaxyzxcv</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#02f71f0</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 May 2022, 10:25:16</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">galaxyzxcv/galaxyzxcv</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ef2580a</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 May 2022, 10:08:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">galaxyzxcv/galaxyzxcv</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2dbe92f</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 May 2022, 10:02:28</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">galaxyzxcv/galaxyzxcv</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2733154</div>
-                                        <div class="message">Update main.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 May 2022, 09:58:02</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">galaxyzxcv/galaxyzxcv</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#086aa85</div>
-                                        <div class="message">Create main.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 May 2022, 09:42:03</div>
-                            </section>
-                        </div>
-                    </section>
-                </div>
             </section>
             <section>
                 <h2 class="field">
