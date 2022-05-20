@@ -38,3 +38,4 @@ jobs:
           plugin_languages_indepth: yes # Get indepth stats (see documentation before enabling)
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+          plugin_languages_sections: recently-used
