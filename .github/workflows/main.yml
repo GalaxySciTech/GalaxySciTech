@@ -38,4 +38,8 @@ jobs:
           plugin_languages_details: lines, bytes-size # Additionally display total bytes size and percentage
           plugin_languages_indepth: yes # Get indepth stats (see documentation before enabling)
           plugin_languages_limit: 4
-
+          
+          plugin_skyline: yes
+          plugin_skyline_year: 2016
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
