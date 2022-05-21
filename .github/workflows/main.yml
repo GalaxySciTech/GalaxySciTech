@@ -40,6 +40,4 @@ jobs:
           plugin_languages_limit: 4
           
           plugin_skyline: yes
-          plugin_skyline_year: 2016
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 1
+          plugin_skyline_frames: 120
