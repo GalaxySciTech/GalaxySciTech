@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           template: classic
-          user: GalaxyEthereum
+          user: GalaxySciTech
           base: ""
           repositories_forks: no
 
